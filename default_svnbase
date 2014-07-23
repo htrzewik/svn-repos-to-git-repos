@@ -1,0 +1,3 @@
+#Use this SVNBASE if not given as argument; must be HTTP protocol
+http://localhost/svn/main/set-of-projects1
+

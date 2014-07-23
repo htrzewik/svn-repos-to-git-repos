@@ -1,0 +1,2 @@
+# Use this temporary folder for SVN to GIT conversions (DON'T ENTER ANY GIT ENABLED SUBDIR)
+/home/user1/svn2git_workdir
